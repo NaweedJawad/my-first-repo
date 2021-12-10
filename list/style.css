@@ -1,0 +1,56 @@
+p {
+    color: aquamarine;
+    height: 150px;
+    width: 900px;
+    font-size: 100%;
+    
+}
+.spring{
+    background-color: indigo;
+    border: 10px solid red;
+    border-radius: 20px;
+    margin: 20px 15px 25px 50px;
+    padding: 30px 20px 10px 50px;
+    
+}
+.good{
+    text-align: center;
+}
+
+#good {
+    color: deeppink;
+}
+
+#bhalo {
+    color: firebrick;
+}
+
+.summer {
+    background-color: gold;
+    text-align: center;
+    display: block;
+}
+
+.winter {
+    color: lime;
+}
+span{
+    color: silver;
+}
+h2{
+    text-align: center;
+    font-weight: 900;
+}
+.spring p{  
+    color: yellow;
+    text-align: justify;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ul{
+    font-style: italic;
+    font-size: 800%;
+    color: lightcoral;
+    background-color: navajowhite;
+    border: 20px coral solid;
+}
