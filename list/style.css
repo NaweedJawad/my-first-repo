@@ -52,5 +52,14 @@ ul{
     font-size: 800%;
     color: lightcoral;
     background-color: navajowhite;
-    border: 20px coral soli;
+    border: 20px coral solid;
+}
+ol{
+
+    font-weight: bolder;
+    font-size: 200%;
+    color: darkcyan;
+    background-color: darkgray;
+    border: 50px solid violet ;
+    padding: 100px;
 }
